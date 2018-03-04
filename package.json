@@ -1,0 +1,8 @@
+{
+  "name": "ethereum-pet-shop",
+  "description": "A simple ethereum dApp",
+  "version": "0.1",
+  "devDependencies": {
+    "truffle": "4.1.0"
+  }
+}
